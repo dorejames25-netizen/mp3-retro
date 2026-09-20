@@ -1,0 +1,14 @@
+<!-- Retro Game MP3 Player Mockup -->
+<div id="retro-mp3-player" class="pixel-player">
+    <div class="player-screen">
+        <span id="track-title">TRACK 01: LEVEL_1.MP3</span>
+        <div class="pixel-visualizer">
+            <span class="bar"></span><span class="bar"></span><span class="bar"></span><span class="bar"></span>
+        </div>
+    </div>
+    <div class="player-controls">
+        <button id="prev-btn" class="pixel-btn">⏮</button>
+        <button id="play-btn" class="pixel-btn">▶</button>
+        <button id="next-btn" class="pixel-btn">⏭</button>
+    </div>
+</div>
